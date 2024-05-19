@@ -1,0 +1,24 @@
+{
+    "spec": 1,
+    "name": "Monaspace Radon",
+    "previewText": "Handwriting font from Monaspace family, now in Discord!",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-ExtraBold.otf",
+        "ggsans-Bold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Bold.otf",
+        "ggsans-BoldItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-BoldItalic.otf",
+        "ggsans-ExtraBold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-ExtraBold.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-ExtraBoldItalic.otf",
+        "ggsans-Medium": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Medium.otf",
+        "ggsans-MediumItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-MediumBold.otf",
+        "ggsans-Normal": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Regular.otf",
+        "ggsans-NormalItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Italic.otf",
+        "ggsans-Semibold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-SemiBold.otf",
+        "ggsans-SemiboldItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-SemiBoldItalic.otf",
+        "NotoSans-Bold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Bold.otf",
+        "NotoSans-ExtraBold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-ExtraBold.otf",
+        "NotoSans-Medium": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Medium.otf",
+        "NotoSans-Normal": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Regular.otf",
+        "NotoSans-NormalItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-Italic.otf",
+        "SourceCodePro-Semibold": "https://github.com/riivx/font-packs/raw/main/monaspace/radon/MonaspaceRadon-SemiBold.otf"
+    }
+}

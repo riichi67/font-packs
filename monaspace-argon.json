@@ -1,0 +1,24 @@
+{
+    "spec": 1,
+    "name": "Monaspace Argon",
+    "previewText": "Humanist sans from Monaspace family, now in Discord!",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-ExtraBold.otf",
+        "ggsans-Bold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Bold.otf",
+        "ggsans-BoldItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-BoldItalic.otf",
+        "ggsans-ExtraBold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-ExtraBold.otf",
+        "ggsans-ExtraBoldItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-ExtraBoldItalic.otf",
+        "ggsans-Medium": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Medium.otf",
+        "ggsans-MediumItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-MediumBold.otf",
+        "ggsans-Normal": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Regular.otf",
+        "ggsans-NormalItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Italic.otf",
+        "ggsans-Semibold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-SemiBold.otf",
+        "ggsans-SemiboldItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-SemiBoldItalic.otf",
+        "NotoSans-Bold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Bold.otf",
+        "NotoSans-ExtraBold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-ExtraBold.otf",
+        "NotoSans-Medium": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Medium.otf",
+        "NotoSans-Normal": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Regular.otf",
+        "NotoSans-NormalItalic": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-Italic.otf",
+        "SourceCodePro-Semibold": "https://github.com/riivx/font-packs/raw/main/monaspace/argon/MonaspaceArgon-SemiBold.otf"
+    }
+}
